@@ -60,7 +60,6 @@ module.exports = {
     "media-query-list-comma-space-before": "never",
     "no-empty-source": true,
     "no-eol-whitespace": true,
-    "no-extra-semicolons": true,
     "no-invalid-double-slash-comments": true,
     "number-no-trailing-zeros": true,
     "property-case": "lower",
