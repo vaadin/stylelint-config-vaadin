@@ -8,6 +8,6 @@
     "index.js"
   ],
   "peerDependencies": {
-    "stylelint": "^7.7.0"
+    "stylelint": "^8.0.0"
   }
 }
