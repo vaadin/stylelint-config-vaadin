@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-vaadin",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Stylelint shareable config for the Vaadin CSS coding style",
   "license": "Apache-2.0",
   "repository": "vaadin/stylelint-config-vaadin",
