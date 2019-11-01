@@ -7,7 +7,11 @@
   "files": [
     "index.js"
   ],
+  "dependencies": {
+    "stylelint-config-styled-components": "^0.1.0",
+    "stylelint-processor-styled-components": "^1.8.0"
+  },
   "peerDependencies": {
-    "stylelint": "^9.0.0"
+    "stylelint": "^11.0.0"
   }
 }
