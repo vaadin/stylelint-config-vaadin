@@ -5,7 +5,7 @@ module.exports = {
     [
       "stylelint-processor-styled-components",
       {
-        "moduleName": "@vaadin/vaadin-themable-mixin",
+        "moduleName": "lit-element",
         "importName": "css",
         "strict": true
       }
