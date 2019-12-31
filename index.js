@@ -76,6 +76,9 @@ module.exports = {
     "number-no-trailing-zeros": true,
     "property-case": "lower",
     "property-no-unknown": true,
+    "property-no-vendor-prefix": [true, {
+      "ignoreProperties": ["appearance", "mask-image", "user-select"]
+    }],
     "rule-empty-line-before": [ "always-multi-line", {
       except: ["first-nested"],
       ignore: ["after-comment"],
