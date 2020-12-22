@@ -77,7 +77,7 @@ module.exports = {
     "property-case": "lower",
     "property-no-unknown": true,
     "property-no-vendor-prefix": [true, {
-      "ignoreProperties": ["appearance", "mask-image", "user-select", "backdrop-filter", "text-size-adjust"]
+      "ignoreProperties": ["appearance", "mask-image", "user-select", "backdrop-filter", "text-size-adjust", "tab-size"]
     }],
     "rule-empty-line-before": [ "always-multi-line", {
       except: ["first-nested"],
@@ -108,7 +108,7 @@ module.exports = {
     "value-list-comma-space-before": "never",
     "value-list-max-empty-lines": 0,
     "value-no-vendor-prefix": [true, {
-      "ignoreValues": ["sticky", "tab-size"]
+      "ignoreValues": ["sticky"]
     }],
   },
 };
