@@ -77,7 +77,7 @@ module.exports = {
     "property-case": "lower",
     "property-no-unknown": true,
     "property-no-vendor-prefix": [true, {
-      "ignoreProperties": ["appearance", "mask-image", "user-select", "backdrop-filter", "text-size-adjust", "tab-size"]
+      "ignoreProperties": ["appearance", "mask-image", "user-select", "backdrop-filter", "text-size-adjust", "tab-size", "mask-position"]
     }],
     "rule-empty-line-before": [ "always-multi-line", {
       except: ["first-nested"],
