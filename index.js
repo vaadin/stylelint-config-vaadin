@@ -1,19 +1,6 @@
 "use strict";
 
 module.exports = {
-  "processors": [
-    [
-      "stylelint-processor-styled-components",
-      {
-        "moduleName": "lit-element",
-        "importName": "css",
-        "strict": true
-      }
-    ]
-  ],
-  "extends": [
-    "stylelint-config-styled-components"
-  ],
   "rules": {
     "at-rule-name-case": "lower",
     "at-rule-name-space-after": "always-single-line",
