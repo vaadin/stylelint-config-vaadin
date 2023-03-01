@@ -2,12 +2,35 @@
   "name": "stylelint-config-vaadin",
   "version": "0.3.0",
   "description": "Stylelint shareable config for the Vaadin CSS coding style",
+  "keywords": [
+    "stylelint",
+    "config",
+    "vaadin",
+    "styleguide"
+  ],
+  "homepage": "https://github.com/vaadin/eslint-config-vaadin#readme",
+  "bugs": {
+    "url": "https://github.com/vaadin/eslint-config-vaadin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaadin/stylelint-config-vaadin.git"
+  },
   "license": "Apache-2.0",
-  "repository": "vaadin/stylelint-config-vaadin",
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "format": "prettier . --write",
+    "lint": "eslint . --ignore-path .gitignore"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-vaadin": "1.0.0-alpha.11",
+    "prettier": "^2.8.1",
+    "prettier-plugin-packagejson": "^2.4.3"
+  },
   "peerDependencies": {
-    "stylelint": ">= 14"
+    "stylelint": ">= 15"
   }
 }
