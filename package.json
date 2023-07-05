@@ -8,9 +8,9 @@
     "vaadin",
     "styleguide"
   ],
-  "homepage": "https://github.com/vaadin/eslint-config-vaadin#readme",
+  "homepage": "https://github.com/vaadin/stylelint-config-vaadin#readme",
   "bugs": {
-    "url": "https://github.com/vaadin/eslint-config-vaadin/issues"
+    "url": "https://github.com/vaadin/stylelint-config-vaadin/issues"
   },
   "repository": {
     "type": "git",
