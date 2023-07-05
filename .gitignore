@@ -1,0 +1,12 @@
+# Mac
+*.DS_Store
+
+# Intellij Idea files
+.idea
+*.iml
+
+# VS Code
+.vscode
+
+# NodeJS files
+/node_modules

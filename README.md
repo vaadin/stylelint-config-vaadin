@@ -2,7 +2,6 @@
 
 > Stylelint shareable config for the Vaadin CSS style guide
 
-
 ## Installation
 
 ```
@@ -14,7 +13,6 @@ or
 ```
 $ yarn add --dev stylelint-config-vaadin
 ```
-
 
 ## Usage
 
