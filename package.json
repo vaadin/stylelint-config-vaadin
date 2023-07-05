@@ -21,12 +21,9 @@
     "index.js"
   ],
   "scripts": {
-    "format": "prettier . --write",
-    "lint": "eslint . --ignore-path .gitignore"
+    "format": "prettier . --write"
   },
   "devDependencies": {
-    "eslint": "^8.24.0",
-    "eslint-config-vaadin": "1.0.0-alpha.11",
     "prettier": "^2.8.1",
     "prettier-plugin-packagejson": "^2.4.3"
   },
