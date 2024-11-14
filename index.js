@@ -36,6 +36,7 @@ module.exports = {
           'text-size-adjust',
           'tab-size',
           'mask-position',
+          'mask-size',
         ],
       },
     ],
