@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-vaadin",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "Stylelint shareable config for the Vaadin CSS coding style",
   "keywords": [
     "stylelint",
